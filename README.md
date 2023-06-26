@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahid-dev" alt="nahid-dev" /></a> </p>
+
 
 - 🔭 I’m currently working on [drawing school project](https://summer-camp-client-1dc2e.web.app/)
 
@@ -27,6 +27,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahid-dev&show_icons=true&locale=en&layout=compact" alt="nahid-dev" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahid-dev&label=Profile%20views&color=0e75b6&style=flat" alt="nahid-dev" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahid-dev&show_icons=true&locale=en" alt="nahid-dev" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahid-dev" alt="nahid-dev" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahid-dev&" alt="nahid-dev" /></p>
 
